@@ -1,0 +1,24 @@
+{
+  "name": "json-server-render-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitchouhan948/json-server-render-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitchouhan948/json-server-render-deploy/issues"
+  },
+  "homepage": "https://github.com/amitchouhan948/json-server-render-deploy#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
